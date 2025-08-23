@@ -1,5 +1,5 @@
 # Base Image
-FROM node:18-aplpine
+FROM node:18-alpine
 
 # Work Dir
 WORKDIR /usr/src/app
